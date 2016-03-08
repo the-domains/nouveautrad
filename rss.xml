@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[nouveautrad]]></title>
-        <description><![CDATA[nouveautrad]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[creative moments, accidental and otherwise]]></title>
+        <description><![CDATA[creative moments, accidental and otherwise]]></description>
+        <link>https://thegrid.ai/nouveautrad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 16:34:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 12:30:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nouveautrad/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f59fba9-39bd-4096-959f-f1890846d116.jpg">]]></description>
+            <link>https://thegrid.ai/nouveautrad/808a6393-e439-4747-b6db-ecc54cd08a1e/index.html</link>
+            <guid isPermaLink="false">808a6393-e439-4747-b6db-ecc54cd08a1e</guid>
+            <pubDate>Tue, 08 Mar 2016 12:29:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36e15723-207d-4d67-9682-40142ce83bac.jpg">]]></description>
+            <link>https://thegrid.ai/nouveautrad/1afc95c8-00f0-46c5-9886-da23cf03457f/index.html</link>
+            <guid isPermaLink="false">1afc95c8-00f0-46c5-9886-da23cf03457f</guid>
+            <pubDate>Wed, 20 Jan 2016 16:37:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Upon entering the port, two simple lines greeted the passengers, none of whom carry passports or identities of any official kind. They read:</p>]]></description>
-            <link>undefinede1e68244-e8e8-4721-8822-f8e1e9877ff6/index.html</link>
+            <link>https://thegrid.ai/nouveautrad/e1e68244-e8e8-4721-8822-f8e1e9877ff6/index.html</link>
             <guid isPermaLink="false">e1e68244-e8e8-4721-8822-f8e1e9877ff6</guid>
             <pubDate>Wed, 20 Jan 2016 16:34:09 GMT</pubDate>
         </item>
